@@ -1,0 +1,14 @@
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\bin\Debug\Ristinollapeli.exe.config
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\bin\Debug\Ristinollapeli.exe
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\bin\Debug\Ristinollapeli.pdb
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.csprojAssemblyReference.cache
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.Properties.Resources.resources
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.csproj.GenerateResource.cache
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.exe
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.pdb
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.Ristinolla1.resources
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.Ristinolla2.resources
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.Ristinolla3.resources
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.Ristinolla4.resources
+C:\Users\OMISTAJA\source\repos\Ristinollapeli\Ristinollapeli\obj\Debug\Ristinollapeli.Ristinolla5.resources
